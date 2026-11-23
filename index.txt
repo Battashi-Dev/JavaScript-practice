@@ -1,0 +1,5 @@
+what is hoisting?
+
+hoisting is moving function declaration on top of the file. in other words is what happens before code run.
+
+.....................................................
